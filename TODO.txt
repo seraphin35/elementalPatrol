@@ -1,0 +1,36 @@
+Unreal Engine Game Project 2:
+    Menu:
+        ☐ Refaire visuel menu (ameliorer + ajouter des animations, sons interactifs)
+        ☐ Refaire visuel game over et pause
+        ☐ Refaire **How to play**
+        ☐ Faire **Options**
+    HUD:
+        ☐ Refaire HUD
+        ☐ Revoir repartition de l'ecran (camera + hud)
+        ☐ Score (avec animation d'incrementation ?)
+        ☐ Multiplier (animation)
+        ☐ Vie
+        ☐ Niveau d'arme (barre de progression)
+        ☐ Vie bosse (activable)
+    Gameplay:
+        ☐ Faire progression niveau
+        ☐ Ameliorer etat de jeu (Start, gameover, pause...)
+        ☐ Faire differents niveaux de tirs
+        ☐ Spawn de bonus a la mort d'ennemies
+        Zone:
+            ☐ Faire transition entre activation et desactivation (couleur + son)
+            ☐ Faire animation sur le timer de reactivation
+        Ennemies :
+            ☐ Faire differents types d'ennemies avec differents comportement
+            ☐ Mettre en place un systeme de vague modifiable
+                ☐ Pouvoir choisir quel type d'ennemies dans la vague, leur nombre, le chemin a suivre
+            ☐ Faire boss
+            ☐ Faire pattern boss ( comportement )
+    Visuel Gameplay:
+        ☐ Ajouter clignotement ennemies + boss
+        ☐ Ajouter un clignotement et un bouclier au joueur si touche.
+        ☐ Ameliorer particles armes (avec progression arme)
+        ☐ Ameliorer particles de collision des armes
+        ☐ Faire explosion mort ennemie
+        ☐ Faire explosion mort boss
+        ☐ Faire explosion mort joueur
