@@ -3,7 +3,7 @@ Unreal Engine Game Project 2:
         ☐ Refaire visuel menu (ameliorer + ajouter des animations, sons interactifs)
         ☐ Refaire visuel game over et pause
         ☐ Refaire **How to play**
-        ☐ Faire **Options**
+        ☐ Faire **Options** (résolution, Nombre de PV)
     HUD:
         ☐ Refaire HUD
         ☐ Revoir repartition de l'ecran (camera + hud)
